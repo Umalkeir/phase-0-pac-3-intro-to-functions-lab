@@ -332,7 +332,17 @@ you will need to return different strings depending on the string passed into
 the function.
 
 **Note:** Although there are 3 tests for `sayHiToHeadphonedRoommate()`, you only
-need to write **one** function. This function should be able to handle all three
+need to write **one** function. This function should be able to handle all three]
+
+
+
+
+
+
+
+
+
+[
 test conditions:
 
 - If the string that is passed into the function is all lowercase, the function
